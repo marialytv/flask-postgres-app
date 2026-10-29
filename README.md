@@ -3,7 +3,7 @@ Simple test app, consisiting of two containers - flask web ui and postgres
 
 To run application via docker compose:
 
-`docker compose up --build`
+`docker compose up -d --build`
 
 To remove all the containers/images associated with the app:
 
